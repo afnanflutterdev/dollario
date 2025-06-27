@@ -16,11 +16,6 @@ Whether you're using Payoneer, Wise, or PayPal, Dollario helps you stay informed
 
 ---
 
-## 📱 Screenshots
-
-> (Add your app screenshots here)
-
----
 
 ## 🛠️ Tech Stack
 
