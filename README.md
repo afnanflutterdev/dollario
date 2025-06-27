@@ -38,6 +38,8 @@ flutter run
 
 Ensure you have Flutter installed and an emulator or physical device connected.
 
+---
+
 🤝 Contributing
 Want to contribute? Fork the repo, make changes, and open a pull request. All contributions are welcome!
 
